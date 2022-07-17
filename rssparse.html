@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <title>RSS parse via jquery</title>
+</head>
+<body>
+    
+</body>
+
+<script>
+  $.get("https://rss.nytimes.com/services/xml/rss/nyt/World.xml", function (data) {
+    $(data).find("item").each(function () { 
+        let el = $(this);
+
+        console.log("   ");
+        console.log("Title: " + el.find("title").text());
+        console.log("Author: " + el.find("dc\\:creator").text());
+        console.log("Date: " + el.find("pubDate").text());
+        console.log("Description: " + el.find("description").text());
+
+    });
+});
+</script>
+</html>
