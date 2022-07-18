@@ -19,7 +19,11 @@
         console.log("   ");
         console.log("Title: " + el.find("title").text());
         console.log("Author: " + el.find("dc\\:creator").text());
-        console.log("Date: " + el.find("pubDate").text());
+        
+        str = el.find("pubDate").text()
+        str = str.split('+');
+        console.log('Date:',str[0]);
+        
         console.log("Description: " + el.find("description").text());
 
     });
