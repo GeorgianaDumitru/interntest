@@ -1,0 +1,15 @@
+C:\Users\Georgiana Dumitru\Desktop\asda\bin\Debug\net6.0\asda.exe
+C:\Users\Georgiana Dumitru\Desktop\asda\bin\Debug\net6.0\asda.deps.json
+C:\Users\Georgiana Dumitru\Desktop\asda\bin\Debug\net6.0\asda.runtimeconfig.json
+C:\Users\Georgiana Dumitru\Desktop\asda\bin\Debug\net6.0\asda.dll
+C:\Users\Georgiana Dumitru\Desktop\asda\bin\Debug\net6.0\asda.pdb
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.csproj.AssemblyReference.cache
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.AssemblyInfoInputs.cache
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.AssemblyInfo.cs
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.csproj.CoreCompileInputs.cache
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.dll
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\refint\asda.dll
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.pdb
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\asda.genruntimeconfig.cache
+C:\Users\Georgiana Dumitru\Desktop\asda\obj\Debug\net6.0\ref\asda.dll
